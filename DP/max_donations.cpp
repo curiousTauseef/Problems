@@ -1,3 +1,4 @@
+// https://community.topcoder.com/stat?c=problem_statement&pm=2402&rd=5009
 #include <algorithm>
 #include <cmath>
 #include <cstdio>
